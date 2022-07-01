@@ -1,0 +1,18 @@
+{
+  "name": "html2imgfileplus",
+  "version": "1.0.9",
+  "description": "用来将网页元素截屏成图片的Nb工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/zhaiyuhan/html2imgfileplus"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html2canvas": "^1.4.1"
+  }
+}
